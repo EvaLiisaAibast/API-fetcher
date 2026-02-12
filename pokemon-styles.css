@@ -1,0 +1,30 @@
+body {
+    background: url('https://i.makeagif.com/media/11-26-2023/Mjs3Ln.gif');
+    background-size: cover;
+    font-family: "Potta One", "Comic Sans MS", "Papyrus", cursive;
+    color: #eed74d;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.profile {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: inherit;
+    background-color: #eed74d;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fff27a;
+}
